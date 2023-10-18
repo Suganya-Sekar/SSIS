@@ -1,0 +1,12 @@
+<?xml version="1.0"?>
+<DTS:ConnectionManager xmlns:DTS="www.microsoft.com/SqlServer/Dts"
+  DTS:ObjectName="DESKTOP-DCHLUD7.SQLSTUDY"
+  DTS:DTSID="{2B236898-88CC-4C03-9F8F-6DA74F0FD4F2}"
+  DTS:CreationName="OLEDB">
+  <DTS:ObjectData>
+    <DTS:ConnectionManager
+      DTS:ConnectRetryCount="1"
+      DTS:ConnectRetryInterval="5"
+      DTS:ConnectionString="Data Source=DESKTOP-DCHLUD7;Initial Catalog=SQLSTUDY;Provider=SQLNCLI11.1;Integrated Security=SSPI;Application Name=SSIS-Transformations-{2B236898-88CC-4C03-9F8F-6DA74F0FD4F2}DESKTOP-DCHLUD7.SQLSTUDY;Auto Translate=False;" />
+  </DTS:ObjectData>
+</DTS:ConnectionManager>
